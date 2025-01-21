@@ -1,7 +1,8 @@
 # Projet-site-burger-admin-server
 Ce dépôt contient le code source d'un serveur d'administration pour un site de vente de burgers.
-## Lien de l'interface d'administration:  http://adminburger.zeinabsalifou.com/admin/index.php
-## Lien du site web des menus de burgers:  http://adminburger.zeinabsalifou.com/
+
+### Lien de l'interface d'administration:  http://adminburger.zeinabsalifou.com/admin/index.php
+### Lien du site web des menus de burgers:  http://adminburger.zeinabsalifou.com/
 
 # Fonctionnalités
 Gestion des produits : Ajout, modification et suppression des articles dans la base de données via une interface conviviale.
